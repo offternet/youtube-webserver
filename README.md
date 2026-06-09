@@ -11,7 +11,8 @@ A custom compiled executable node.js webserver with websocket module that allows
 - Tip: place <iframe>youtube code</iframe> in same folder as scatpack-webserver.BinImage
 
 ### Download scatpack-websever.BinImage - Download Page 
-
+* https://linstaller.com/files/youtube-webserver/index.html
+* 
 ## How to use scatpack-webserver.BinImage (Linux Only) ocally play Youtube Videos - No Ads !!!##
 
 * Download the above scatpack-webserver.BinImage to same folder containing *.html
@@ -43,7 +44,8 @@ Place your HTML files here and access them by name.`
 * Open your browser and enter; http://localhost:3000/correct-name.html
 
 ### Enjoy Youtube on your device (Linux Only) without any Youtube Ads !!
-
+* https://linstaller.com/files/youtube-webserver/index.html
+  
 ## Let us know what you think of this process. 
 
 # Spred the Word about Scatpack !!! 
