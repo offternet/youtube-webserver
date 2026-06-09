@@ -46,8 +46,8 @@ Place your HTML files here and access them by name.`
 
 ## Let us know what you think of this process. 
 
-# Spred the Word about Scatpack !!!
+# Spred the Word about Scatpack !!! 
+* One option is: Watch Youtube Videos locally without Ads !!!
 
 ### Contact us here:
-
 https://startdesktop.com/index.php/contact-us
