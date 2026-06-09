@@ -1,5 +1,5 @@
 # youtube-webserver
-A custom compiled node.js webserver with websocket module that allows playing youtube videos on localhost - no ads !
+A custom compiled executable node.js webserver with websocket module that allows playing youtube videos on localhost - no ads !
 
 ### Download page here: 
 * https://linstaller.com/files/youtube-webserver/index.html
